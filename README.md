@@ -1,23 +1,37 @@
 # UML Editor
 用物件導向的方式，實作一個UML Editor，有以下的功能
-1. create or remove usecase object
+
+## Demo
+1. 基本功能
+![截圖 2025-01-16 下午1.56.29](https://hackmd.io/_uploads/BJ2xlm8vyl.png =80%x)
+2. Group
+![截圖 2025-01-16 下午2.00.31](https://hackmd.io/_uploads/ByeqeXIPJx.png =80%x)
+
+
+## 功能
+1. Create or remove usecase object
 ![usecase](https://hackmd.io/_uploads/H13waMBIyx.png)
 
-2. create or remove class object
+2. Create or remove class object
 ![class](https://hackmd.io/_uploads/Sy9dpMSLkx.png)
 
-3. select
+3. Select
 ![select](https://hackmd.io/_uploads/r1HtTGH8Jl.jpg)
 
-4. create association line
+4. Create association line
 ![association](https://hackmd.io/_uploads/S1z96zHLJx.jpg)
 
-5. create generalization line
+5. Create generalization line
 ![generalization](https://hackmd.io/_uploads/B129TzS81e.jpg)
 
-6. create compition line
+6. Create composition line
 ![composition](https://hackmd.io/_uploads/SkBsTfSU1e.jpg)
 
-7. group (將多個物件group成一個)
-8. ungroup
-9. change object name
+7. Group (將多個物件group成一個)
+8. Ungroup
+9. Change object name
+
+## Class diagram
+![mid_project](https://hackmd.io/_uploads/BkUm_l9DJe.jpg)
+
+
