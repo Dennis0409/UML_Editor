@@ -1,6 +1,8 @@
 # UML Editor
 用物件導向的方式，實作一個UML Editor，有以下的功能
-
+## Usage
+1. ```make ```
+2. ```java frame/UML```
 ## Demo
 1. 基本功能
 <img src="https://hackmd.io/_uploads/BJ2xlm8vyl.png" alt="截圖 2025-01-16 下午1.56.29" width="80%">
