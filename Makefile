@@ -13,5 +13,5 @@ all: $(CLASS_FILES)
 
 # 清除生成的 .class 文件
 clean:
-	rm -f $(CLASS_FILES)
+	find $(SRC_DIRS) -name "*.class" -exec rm -f {} +
 
