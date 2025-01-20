@@ -3,9 +3,10 @@
 
 ## Demo
 1. 基本功能
-![截圖 2025-01-16 下午1.56.29](https://hackmd.io/_uploads/BJ2xlm8vyl.png =80%x)
+<img src="https://hackmd.io/_uploads/BJ2xlm8vyl.png" alt="截圖 2025-01-16 下午1.56.29" width="80%">
 2. Group
-![截圖 2025-01-16 下午2.00.31](https://hackmd.io/_uploads/ByeqeXIPJx.png =80%x)
+<img src="https://hackmd.io/_uploads/ByeqeXIPJx.png" alt="截圖 2025-01-16 下午1.56.29" width="80%">
+
 
 
 ## 功能
